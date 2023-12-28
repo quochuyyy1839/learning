@@ -1,2 +1,2 @@
-// hello.js
+// hello world
 console.log('Hello, World!');
